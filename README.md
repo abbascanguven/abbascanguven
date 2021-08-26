@@ -15,7 +15,7 @@
 
 <br />
 <br />
-Hi, I'm Abbas Can Güven, Data Scientist & Machine learning engineer from Ankara, Turkey.
+Hi, I'm Abbas Can Güven, Data Scientist & Machine Learning Engineer from Ankara, Turkey.
 
 - 🔭 I’m currently working on **Fintech**
 
