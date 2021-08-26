@@ -23,7 +23,7 @@ Hi, I'm Abbas Can Güven, Data Scientist & Machine Learning Engineer from Ankara
 
 - 📝 I regularly write notebook on [Kaggle](https://www.kaggle.com/abbascanguven)
 
-- 💬 Ask me about **Tensorflow, Keras, Data Science, statistic**
+- 💬 Ask me about **Tensorflow, Keras, Data Science and Statistic**
 
 - 📫 How to reach me **abbascang@gmail.com**,  
 <br />
