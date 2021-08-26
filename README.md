@@ -15,7 +15,9 @@
 
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=abbascanguven)
+
+![](https://komarev.com/ghpvc/?username=your-github-abbascanguven)
+
 
 Hi, I'm Abbas Can Güven, Data Scientist & Machine Learning Engineer from Ankara, Turkey.
 
