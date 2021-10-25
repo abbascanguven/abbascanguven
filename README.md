@@ -19,11 +19,11 @@
 ![](https://komarev.com/ghpvc/?username=your-github-abbascanguven)
 
 
-Hi, I'm Abbas Can Güven, Data Scientist & Machine Learning Engineer from Ankara, Turkey.
+Hi, I'm Abbas Can Güven, Deep LearningEngineer from Ankara, Turkey.
 
-- 🔭 I’m currently working on **Fintech**
+- 🔭 I’m currently working on **Defense Industry**
 
-- 🌱 I’m currently learning **Reinforcement Learning, OpenCV, PyTorch**
+- 🌱 I’m currently learning **Reinforcement Learning, Deep Learning**
 
 - 📝 I regularly write notebook on [Kaggle](https://www.kaggle.com/abbascanguven)
 
