@@ -30,6 +30,14 @@ Hi, I'm Abbas Can Güven, Deep LearningEngineer from Ankara, Turkey.
 - 💬 Ask me about **Tensorflow, Keras, Data Science and Statistic**
 
 - 📫 How to reach me **abbascang@gmail.com**,  
+
+![snake svg](https://github.com/abbascanguven/abbascanguven/blob/output/github-contribution-grid-snake.svg)
+
+asdasdas
+
+
+![snake gif](https://github.com/abbascanguven/abbascanguven/blob/output/github-contribution-grid-snake.gif)
+
 <br />
 
 </a>
