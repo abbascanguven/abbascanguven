@@ -21,9 +21,9 @@
 
 Hi, I'm Abbas Can Güven, Deep LearningEngineer from Ankara, Turkey.
 
-- 🔭 I’m currently working on **Defense Industry**
+- 🔭 I’m currently working at [Synnada](https://www.synnada.ai/)
 
-- 🌱 I’m currently learning **Reinforcement Learning, Deep Learning**
+- 🌱 I’m currently learning **Cs, Unsupervised Learning, Deep Learning**
 
 - 📝 I regularly write notebook on [Kaggle](https://www.kaggle.com/abbascanguven)
 
