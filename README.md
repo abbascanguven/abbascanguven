@@ -19,9 +19,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-abbascanguven)
 
 
-Hi, I'm Abbas Can Güven, Deep LearningEngineer from Ankara, Turkey.
+Hi, I'm Abbas Can Güven, Data Scientist from Ankara, Turkey.
 
-- 🔭 I’m currently working at [Synnada](https://www.synnada.ai/)
+- 🔭 I’m currently working at [Yapı Kredi](https://www.yapikredi.com.tr/)
 
 - 🌱 I’m currently learning **Cs, Unsupervised Learning, Deep Learning**
 
